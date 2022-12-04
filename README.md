@@ -20,3 +20,11 @@ return "".join(set(s))
 
 ## Output
 ![pct3](https://user-images.githubusercontent.com/115356128/205475211-72db53f8-8b5f-4ada-81ee-9365242c6064.png)
+
+# Tugas Praktikum
+Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
+• Fungsi tambah() untuk menambah data
+• Fungsi tapilkan() untuk menampilkan data
+• Fungsi hapus(nama) untuk menghapus data berdasarkan nama
+• Fungsi ubah(nama) untuk mengubah data berdasarkan nama
+• Buat flowchart dan penjelasan programnya pada README.md.
