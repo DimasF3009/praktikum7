@@ -47,5 +47,12 @@ data = {}
 ![pct7](https://user-images.githubusercontent.com/115356128/205526166-5d0e4191-6e63-4f23-9458-262fffa4c65a.png)
 
 #### Code untuk memenggil fungsi
-![pct8](https://user-images.githubusercontent.com/115356128/205526239-e448166e-2f2a-4e74-afa9-579c10cb32f9.png)
+![pct8](https://user-images.githubusercontent.com/115356128/205526487-ff2235ad-69c4-47f7-b358-5b3da5c7d981.png)
+
+#### Output
+![pct9](https://user-images.githubusercontent.com/115356128/205526670-6e3d3038-d668-44cf-9c99-c0c69d6d77e9.png)
+
+![pct10](https://user-images.githubusercontent.com/115356128/205526689-f6350562-db29-476e-8649-39965361cda2.png)
+
+![pct11](https://user-images.githubusercontent.com/115356128/205526707-06bc27e3-2fc3-4d84-b288-a7d9fe80dbe1.png)
 
